@@ -1,0 +1,25 @@
+body{
+    background: palevioletred;
+}
+
+.consigna, li{
+    font-size: 19px;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+
+form{
+    padding-top: 50px;
+    font-size: 19px;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+
+.pizza-container{
+    font-size: 20px;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
